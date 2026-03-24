@@ -1,7 +1,7 @@
 {
   "name": "s26wa19kennedy",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "description": "",
   "license": "ISC",
   "author": "Parker Kennedy",
@@ -21,11 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_USERNAME/s26wa19kennedy.git"
+    "url": "git+https://github.com/PKennedy08/s26wa19kennedy.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/s26wa19kennedy/issues"
+    "url": "https://github.com/PKennedy08/s26wa19kennedy/issues"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/s26wa19kennedy#readme"
+  "homepage": "https://github.com/PKennedy08/s26wa19kennedy#readme"
 }
