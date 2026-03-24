@@ -18,5 +18,14 @@
     "http-errors": "~1.6.3",
     "morgan": "^1.10.1",
     "pug": "^3.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/s26wa19kennedy.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/s26wa19kennedy/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/s26wa19kennedy#readme"
 }
